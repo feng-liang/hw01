@@ -1,7 +1,13 @@
 # hw01
 Repository for homework 01
 # General Introduction about Myself
-My name is Feng Liang and I am a MAPSS student in sociology. My thesis is very qualitative oriented and almost does not involve any manipulation of numeric data at all. It is very refreshing for me to sit in this class and imagine new ways for interacting with data. Ironically, my advisor is a strong opponent of the effectiveness of computer programming. For example, in a comment about content analysis, he would say *there's nothing you can't get from just reading very fast*.
+My name is Feng Liang and I am a MAPSS student in sociology. My thesis is very qualitative oriented and almost does not involve any manipulation of numeric data at all. It is very refreshing for me to sit in this class and imagine new ways for interacting with data. I have a cat, here's a picutre of her: 
+
+![image of Lennon]
+(IMG_0168.jpeg)
+
+
+
 ## General Workflow
 Below I provide a list of steps I follow to finish this assignment:
 1. Fork the repository into my github account.
